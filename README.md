@@ -1,4 +1,4 @@
-## Device Information Retrieval Script
+## Device Information Python Script
 
 This Python script retrieves device information such as computer name, operating system details, processor, RAM, GPU, and device storage. It provides users with options to export this information in various formats, including text file, HTML, CSV, or JSON.
 
