@@ -45,3 +45,9 @@ This Python script retrieves device information such as computer name, operating
 4. Select an export option (1-4) when prompted to export the information in the desired format.
 
 5. The exported file will be saved in the current directory with the appropriate format and file extension.
+
+### Example
+
+1. Make sure to install the required dependencies: `pip install wmi`
+
+2. Run the script: `python system-info.py` or `system-info.py`
